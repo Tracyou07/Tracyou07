@@ -24,16 +24,6 @@
 | 🗺️ | [**MAP: Mitigating Hallucinations with Map-Level Attention Processing**](https://arxiv.org/abs/2508.01653) | arXiv 2025 |
 | 📊 | **Strengthening Layer Interaction via Global-Layer Attention Network** | IEEE ICSP 2024 |
 
----
-
-### 🔭 Current Research @ GRASP Lab, UPenn
-
-- 3D reconstruction pipelines (DUST3R, CUT3R, Human3R, DPT)
-- World-model-style latent dynamics for temporal consistency
-- Geometry-aware loss functions for human–environment interaction
-
----
-
 ### 🛠️ Tech Stack
 
 <p>
