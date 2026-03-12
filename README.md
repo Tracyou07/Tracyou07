@@ -46,18 +46,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
 </p>
-
----
-
-### 🏆 Selected Honors
-
-- 🥇 **1st Prize** — National College IoT Competition, Southwest China Division (2024)
-- 🎖️ **First-Class Academic Scholarship** (Top 5%) — UESTC (2023)
-- 🥈 **2nd Prize** — National Embedded Chip & System Design Competition, Sichuan Province (2022)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tracyou07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tracyou07&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
