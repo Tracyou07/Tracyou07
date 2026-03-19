@@ -13,16 +13,7 @@
   🤖 Research interests: <strong>LVLMs · Hallucination Mitigation · 3D Reconstruction · Token Efficiency</strong>
 </p>
 
----
 
-### 📄 Selected Publications
-
-| | Title | Venue |
-|---|---|---|
-| 🔥 | [**Mitigating Hallucinations via Inter-Layer Consistency Aggregation in LVLMs**](https://arxiv.org/abs/2505.12343) | arXiv 2025 |
-| ⚡ | [**STAR: Stage-Wise Attention-Guided Token Reduction for Efficient LVLM Inference**](https://arxiv.org/abs/2505.12359) | arXiv 2025 |
-| 🗺️ | [**MAP: Mitigating Hallucinations with Map-Level Attention Processing**](https://arxiv.org/abs/2508.01653) | arXiv 2025 |
-| 📊 | **Strengthening Layer Interaction via Global-Layer Attention Network** | IEEE ICSP 2024 |
 
 ### 🛠️ Tech Stack
 
