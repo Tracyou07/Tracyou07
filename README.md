@@ -3,7 +3,7 @@
 <p align="center">
   <a href="mailto:you7@seas.upenn.edu"><img src="https://img.shields.io/badge/Email-you7%40seas.upenn.edu-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="mailto:tracyou07@gmail.com"><img src="https://img.shields.io/badge/Email-tracyou07%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://tracyou07.github.io"><img src="https://img.shields.io/badge/Website-tracyou07.github.io-6366f1?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://tracyou07.github.io"><img src="https://img.shields.io/badge/Website-Tracyou07.github.io-6366f1?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=1mgqY5wAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/></a>
 </p>
 
