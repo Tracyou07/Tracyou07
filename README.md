@@ -9,7 +9,7 @@
 
 <p align="center">
   🎓 MS in Electrical Engineering @ <strong>University of Pennsylvania (UPenn)</strong><br/>
-  🔬 Graduate Research Assistant @ <strong>GRASP Lab</strong> · Previously @ De AI Lab & Beihang VIGA Lab<br/>
+  🔬 Graduate Research Assistant @ <strong>GRASP Lab</strong> · Previously @ De AI Lab <br/>
   🤖 Research interests: <strong>LVLMs · Hallucination Mitigation · 3D Reconstruction · Token Efficiency</strong>
 </p>
 
