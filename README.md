@@ -1,4 +1,4 @@
-### Hi, I'm Jinhao 👋
+# Hi, I'm Jinhao 👋
 
 *Learning representations of the visual world.*
 
@@ -6,7 +6,7 @@ My research centers on **representation learning**, with interests in how learne
 
 MS in Electrical Engineering at the **University of Pennsylvania**. Graduate Research Assistant at **GRASP Lab**, previously at De AI Lab.
 
-#### Links
+## Links
 
 - Website: [tracyou07.github.io](https://tracyou07.github.io)
 - Google Scholar: [Publications](https://scholar.google.com/citations?user=1mgqY5wAAAAJ&hl=en)
